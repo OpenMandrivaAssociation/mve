@@ -8,7 +8,7 @@
 Summary:	Multiple View Geometry
 Name:		mve
 Version:	0~git20220425
-Release:	0
+Release:	1
 Group:		Graphics
 License:	BSD and GPLv3
 Url:		https://www.gcc.tu-darmstadt.de/home/proj/mve/                
